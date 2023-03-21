@@ -9,3 +9,4 @@
 - [[인강] 스프링부트 시큐리티 & JWT 강의 (최주호)](https://github.com/zieunx/springboot-sequrity-with-jwt)
 - [[인강] 스프링 핵심 원리 - 고급편 (김영한)](https://github.com/zieunx/spring-advanced)
 - [[인강] 스프링 DB 1편 - 데이터 접근 핵심 원리 (김영한)](https://github.com/zieunx/spring-db-1)
+- [[인강] 자바 ORM 표준 JPA 프로그래밍 - 기본편 (김영한)](https://github.com/zieunx/java-orm-jpa-basic)
